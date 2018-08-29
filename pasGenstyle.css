@@ -1,0 +1,46 @@
+body{
+    background: -webkit-gradient(radial,center center, 0, center center, 460, from(#1a82f7), to(#2F2727));
+    
+    background: -webkit-radial-gradient(circle, #1a82f7, #2F2727);
+    
+    background: -moz-radial-gradient(circle, #1a82f7, #2F2727);
+    
+    background: -ms-radial-gradient(circle, #1a82f7, #2F2727);
+    
+}
+
+.container{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-size: 2em;
+}
+
+.out{
+    width: 640px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #f63;
+    margin-top: 30px;
+}
+.mybtn{
+    width: 500px;
+    margin-top: 30px;
+    height: 40px;
+}
+.col-xs-10{
+ text-align-last: center;
+    background-color: #f63;
+    color: white;
+    
+}
+.in{
+    width: 90px;
+    height: 40px;
+    text-align: center;
+    color: #f63;
+    
+}
+
+
+
